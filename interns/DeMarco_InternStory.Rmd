@@ -1,0 +1,32 @@
+---
+title: "DeMarco Intern Stories"
+author: "Rebecca DeMarco"
+date: "August 29, 2016"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### 1. Have you always desired an opportunity to work at NASA? If not, why did you choose NASA? 
+
+Working at NASA has been a lifelong dream of mine. Inspired by reoccurring space themes in Scooby-Doo and The Planet Song from Blues Clues as a child, I constantly asked my teachers when we would finally learn about the solar system until we covered it at some point in my fourth grade curriculum. However, just a small unit on the solar system wasn't enough. My fourth grade teacher said that if we wanted to learn more, we could go to www.nasa.gov with our parents permission. My first memory of using the internet was being patient with dial-up and navigating NASA's website. Using the website, I learned about the historic Space Shuttle mission, STS-114. In sixth grade we learned about astronomy and I loved every minute of it. The following year, the History Channel came out with a show called The Universe. It was then that I realized that I *really* wanted to work at NASA. I started printing out articles from NASA's website about research being done on the ISS and sharing them with my teachers. By time eighth grade hit, everyone knew that space was something I had a passion for. I was even exploring college majors! 
+
+### 2. Do you have any special or fun memories involving NASA that have contributed to your journey here? 
+I used to watch night launches frequently as a kid, so my mom always told me how I needed to go to bed - but I never listened. I remember when MSL landed and she told me to go to bed (it was well past 1am) and I just thought how crazy that would be to sleep through something that I'm really excited about and is part of history. 
+
+### 3. What challenges do you feel you have had to overcome to reach this point? 
+My freshman year of college, I failed Calculus 1 and I had switched majors to Human Factors - something I didn't even know existed until I got to Embry-Riddle. Failing Calculus had really hurt my GPA and I had to wait a semester or two to pull my GPA up so that I would be eligible for an opportunity at NASA. It wasn't until my sophomore year in college that I realized I wanted my area of study in my Human Factors degree to be computer science. Being dedicated to hard work and learning helped me land my first NASA internship the summer before my junior year! 
+
+### 4. Have you participated in any other NASA educational opportunities? 
+I completed a NASA internship at Kennedy Space Center during summer 2015. I worked with the Kennedy Ground Control Subsystem team on a product called the Health Monitoring Software. It was amazing to work with such a dedicated and hard working team. Through my work at KSC, I got to learn more about our Journey to Mars. 
+
+### 5. What do you like best about your chosen academic discipline? 
+I really enjoy Human Factors because I get to work with engineers to develop a product that has a user centered design. Since Human Factors can be interdisciplinary, I have been able to branch out and learn things about computer science and software engineering. 
+
+### 6. What do you hope to do in your future? 
+I plan on pursuing a career at NASA and a masters degree in Software Engineering. If I were to have a second career, I would most likely get another degree and pursue a career at SETI or NASA Ames. 
+
+### 7. What are you most looking forward to seeing or doing here at NASA? What do you hope to get out of this experience academically and professionally? 
+I really look forward to just taking it all in and enjoying every moment I have here. I get to work on a really cool project and meet new people, and I'm just so excited for the whole experience. 
